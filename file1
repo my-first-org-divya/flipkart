@@ -1,1 +1,10 @@
 this is my first file in visual studio
+git commands git add git commit
+git stash
+git stash drop
+git stash clear
+ git stash pop
+ git stash apply
+ git stash list
+ git revert
+ git reset
